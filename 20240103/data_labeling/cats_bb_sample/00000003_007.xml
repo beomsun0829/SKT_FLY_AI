@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats_bb_sample</folder>
+	<filename>00000003_007.jpg</filename>
+	<path>D:\Programming\SKT_FLY_AI\20240103\cats_bb_sample\00000003_007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>17</ymin>
+			<xmax>456</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>
