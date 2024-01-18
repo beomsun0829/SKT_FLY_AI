@@ -4,3 +4,5 @@ cats_and_dogs_filtered
 # models
 ckpt
 *.keras
+
+.env
