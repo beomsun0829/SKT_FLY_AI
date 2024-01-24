@@ -5,4 +5,10 @@ cats_and_dogs_filtered
 ckpt
 *.keras
 
+
+# keys
 .env
+*.pem
+
+.ipynb_checkpoints
+data
