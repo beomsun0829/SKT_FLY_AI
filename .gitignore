@@ -12,3 +12,5 @@ ckpt
 
 .ipynb_checkpoints
 data
+checkpoints
+mmdetection
