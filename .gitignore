@@ -14,3 +14,5 @@ ckpt
 data
 checkpoints
 mmdetection
+
+__pycache__
